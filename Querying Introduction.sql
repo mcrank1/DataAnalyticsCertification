@@ -1,0 +1,9 @@
+
+SELECT customer_id, first_name
+FROM customers;
+
+
+SELECT *
+FROM customer_orders
+WHERE product_id = 1001
+;
